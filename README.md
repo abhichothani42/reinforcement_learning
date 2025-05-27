@@ -1,6 +1,7 @@
-# reinforcement_learning
-lets learn RL
+# Reinforcement Learning
 
-##Instalation
-Create conda env 
-install gymnasium and its environments using pip
+Let's learn RL!
+
+## Installation
+
+Create a Conda environment and install Gymnasium and its environments using `pip`.
